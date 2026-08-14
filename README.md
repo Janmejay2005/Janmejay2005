@@ -1,11 +1,18 @@
-## Hi there 👋
+# Hi, I'm Janmejay 👋
 
-🚀 BCA Student @ LNCT | Specializing in AI & Data Analytics
+BCA (AI & Data Analytics) student at LNCT University, Bhopal · Dual enrolled at IIT Patna
 
-💻 Full-Stack Developer (MERN & Java) | Exploring Web3 & Cybersecurity
+I build real products, not just academic exercises — currently VP of Odyssey 
+(Entrepreneurship Cell), and working on AI agents, automation tooling, and 
+full-stack apps.
 
-🛠️ Currently building: [Voice Assitant]
+## 🔧 Currently building
+- **SAARTHI** — Smart Campus Navigation & Student Assistant (React)
+- **urVault** — CLI password security engine, open-core B2B pivot
+- **AuraFX** — Chrome extension for gesture-based video call filters
 
-📚 Always learning, one commit at a time.
+## 🛠️ Tech
+Python · Java · JavaScript · React · Flask · Vite
 
-There are days when you don't feel like working and those are the days you have to work even much harder to achive your true self
+## 📫 Reach me
+[LinkedIn] · [Gmail] · [Resume]
