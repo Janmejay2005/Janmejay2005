@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Janmejay Kumar Singh
+# 👋 Hi, I'm Janmejay Kumar Singh  [Welcome](https://janmejay2005.github.io/Jordani_land/)
 
 ### 🤖 AI/ML • Full-Stack Development • AI Application Engineering
 
